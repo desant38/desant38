@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @desant38, my name's Yuri
 - 👀 I’m interested in girls💃🏻, weapons⚔️, cinema📼, music🎧, coding♻️ etc
-- 🌱 I’m currently learning java☕ for Android📱
+- 🌱 I’m currently learning more Kotlin and less Java☕ for Android📱
 - 💞️ I’m looking to collaborate on ... whatever🕸️
 - 📫 How to reach me ... whatever 🤷🏻‍♂️
 
